@@ -1,0 +1,4 @@
+www.multiple.com:216.58.192.142:216.58.216.78:216.58.216.238
+www.google.com:173.194.197.105
+www.youtube.com:172.217.8.174
+www.twitter.com:104.244.42.129
